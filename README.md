@@ -2,7 +2,7 @@
 
 Welcome to **Donator.ai**, an innovative new humanitarian crowdfunding platform launched by former staff from the United Nations, USAID and other aid organizations in response to sudden and disastrous USAID aid freeze. The platform is powered by a brand-new database that Donator's development lab is calling **IATI Plus**.
 
-## Development
+## Platform
 
 ![Donator Simulation](https://github.com/Partnership-on-Generative-AI/Donator/blob/main/Donator_Simulation.png)
 
