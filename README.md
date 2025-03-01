@@ -1,3 +1,5 @@
+![Donator Logo](https://github.com/Donator-ai/Development-Lab/blob/main/Media/Donator_Logo_Header.png)
+
 # Donator.ai
 ![Donator Simulation](https://github.com/Partnership-on-Generative-AI/Donator/blob/main/Donator_Simulation.png)
 
