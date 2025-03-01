@@ -1,11 +1,10 @@
-![Donator Logo](https://github.com/Donator-ai/Development-Lab/blob/main/Media/Donator_header200ct.png)
-
-# Donator.ai
-![Donator Simulation](https://github.com/Partnership-on-Generative-AI/Donator/blob/main/Donator_Simulation.png)
+![Donator Logo](https://github.com/Donator-ai/Development-Lab/blob/main/Media/Donator_IATIPlus_header200.png)
 
 Welcome to **Donator.ai**, an innovative new humanitarian crowdfunding platform launched by former staff from the United Nations, USAID and other aid organizations in response to sudden and disastrous USAID aid freeze. 
 
 ## Development
+
+![Donator Simulation](https://github.com/Partnership-on-Generative-AI/Donator/blob/main/Donator_Simulation.png)
 
 Donator and its AI lab are being initially developed through the [Partnership on Generative AI for Humanitarian Applications](https://github.com/Partnership-on-Generative-AI/About/blob/main/README.md) which links humanitarian organizations and tech companies interested in uses of large language models for good. Members help one another scope projects, deploy models, troubleshoot code and carry out basic testing.
 
