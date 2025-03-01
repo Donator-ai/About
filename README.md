@@ -1,6 +1,6 @@
 ![Donator Logo](https://github.com/Donator-ai/Development-Lab/blob/main/Media/Donator_IATIPlus_header200.png)
 
-Welcome to **Donator.ai**, an innovative new humanitarian crowdfunding platform launched by former staff from the United Nations, USAID and other aid organizations in response to sudden and disastrous USAID aid freeze. 
+Welcome to **Donator.ai**, an innovative new humanitarian crowdfunding platform launched by former staff from the United Nations, USAID and other aid organizations in response to sudden and disastrous USAID aid freeze. The platform is powered by a brand-new database that Donator's development lab is calling **IATI Plus**.
 
 ## Development
 
