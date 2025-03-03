@@ -6,9 +6,9 @@ Welcome to **Donator.ai**, an innovative new humanitarian crowdfunding platform 
 
 ![Donator Simulation](https://github.com/Partnership-on-Generative-AI/Donator/blob/main/Donator_Simulation.png)
 
-Donator and its AI lab are being initially developed through the [Partnership on Generative AI for Humanitarian Applications](https://github.com/Partnership-on-Generative-AI/About/blob/main/README.md) which links humanitarian organizations and tech companies interested in uses of large language models for good. Members help one another scope projects, deploy models, troubleshoot code and carry out basic testing.
+**Donator** and its **Development Lab** are being managed through the [Partnership on Generative AI for Humanitarian Applications](https://github.com/Partnership-on-Generative-AI/About/blob/main/README.md) which links humanitarian organizations and tech companies interested in uses of large language models for good. Members help one another scope projects, deploy models, troubleshoot code and carry out basic testing.
 
-We're building a brand new, cutting-edge crowdfunding platform adapted for the AI age that innovatively stores, reads, writes and traverses open data on humanitarian aid activities. 
+We're bringing volunteers and partners together building a brand new, cutting-edge crowdfunding platform adapted for the AI age that innovatively stores, reads, writes and traverses open data on humanitarian aid activities. 
 
 ## Get Involved
 
